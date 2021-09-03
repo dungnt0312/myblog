@@ -8,6 +8,7 @@
 	width: 100%;
 	position: fixed;
 	z-index: 12;
+	top: 0px;
 }
 
 .header a {
@@ -16,20 +17,8 @@
 	font-size: large;
 	font-weight: bold;
 }
-.adbt{
-	position: fixed;
-	top: 80px;
-	left: 10px;
-	z-index: 13;
-}
 .nbcolor{
-	background-color:#ffffff ;
-}
-marquee{
-	width: 100%;
-	position: fixed;
-	z-index: 13;
-	margin: auto;
+	background-color:mediumturquoise ;
 }
 /* Body */
 .full-screen {
@@ -39,6 +28,7 @@ marquee{
   }
 body{
 	font-family: 'Muli', sans-serif;
+	height: 1500px;
 }
 .mainct{
 margin-bottom: 120px;
